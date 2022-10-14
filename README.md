@@ -23,7 +23,7 @@
 - 🤔 I’m always looking for opportunities to work on cool projects or to learn from more experienced developers and writers.
 - 💬 I love talking about specialty coffee, history, good books, software documentation, trail running, aquaria, and frisbee golf.
 - ⚡ Fun fact: Shrimp are effective swimmers due to their well-developed pleopods. :shrimp:
-- 🎮 I've been fascinated by manuals and docs since I began playing Ninja Turtles for NES with my dad in the early 90s.
+- 🎮 I've been fascinated by manuals and docs since I began playing [Ninja Turtles](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(NES_video_game)) for NES with my dad in the early 90s.
 ---
 <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="300"/>
 
